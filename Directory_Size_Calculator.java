@@ -20,7 +20,7 @@ class FileNode {
     }
 }
 
-class DirectorySize {
+class Directory_Size_Calculator {
 
     static int calculateSize(FileNode node) {
         // Base Case: If file, return size
