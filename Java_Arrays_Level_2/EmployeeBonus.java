@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class EmployeeBonus {
     public static void main(String[] args) {
 
@@ -49,4 +48,4 @@ public class EmployeeBonus {
         
         sc.close();
     }
-}
+}                   

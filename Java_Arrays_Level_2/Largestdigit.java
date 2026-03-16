@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LargestDigit {
+public class Largestdigit {
 
     public static void main(String[] args) {
 
